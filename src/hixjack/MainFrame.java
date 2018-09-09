@@ -7,7 +7,7 @@ package hixjack;
 
 /**
  *
- * @author sarahhinton
+ * @author Kareem Hinton
  */
 public class MainFrame extends javax.swing.JFrame {
 
